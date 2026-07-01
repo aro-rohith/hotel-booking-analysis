@@ -1,5 +1,15 @@
 # Hotel Booking Analysis Dashboard
 
+## Dashboard Preview
+
+### Hotel Booking Performance Dashboard
+
+![Dashboard Page 1](Dashboard%20Page%201.png)
+
+### Customer Booking Insights Dashboard
+
+![Dashboard Page 2](Dashboard%20Page%202.png)
+
 ## Project Overview
 
 This project analyzes hotel booking data to identify booking trends,
